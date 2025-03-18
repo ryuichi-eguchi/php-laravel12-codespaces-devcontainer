@@ -1,0 +1,14 @@
+{
+	"name": "Laravel 12 DevContainer",
+	"build": {
+	  "dockerfile": "./Dockerfile",
+	  "context": ".."
+	},
+	"workspaceFolder": "/var/www",
+	"shutdownAction": "stopCompose",
+	"extensions": [
+	  "bmewburn.vscode-intelephense-client",
+	  "esbenp.prettier-vscode"
+	]
+  }
+  

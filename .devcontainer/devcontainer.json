@@ -6,6 +6,7 @@
 	},
 	"workspaceFolder": "/var/www",
 	"shutdownAction": "stopCompose",
+	"remoteUser": "root",
 	"extensions": [
 	  "bmewburn.vscode-intelephense-client",
 	  "esbenp.prettier-vscode"

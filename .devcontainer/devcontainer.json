@@ -1,12 +1,12 @@
 {
 	"name": "Laravel 12 DevContainer",
 	"dockerComposeFile": "docker-compose.yml",
-	"workspaceFolder": "/workspaces",
+	"service": "app",
+	"workspaceFolder": "/var/www",
 	"shutdownAction": "stopCompose",
-	"remoteUser": "root",
 	"extensions": [
 	  "bmewburn.vscode-intelephense-client",
 	  "esbenp.prettier-vscode"
 	]
-}
+  }
   
